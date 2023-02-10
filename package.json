@@ -1,0 +1,22 @@
+{
+  "name": "realtimechat",
+  "version": "1.2.0",
+  "description": "aplikasi real time chat",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rizkiwahyudin_",
+  "license": "ISC",
+  "dependencies": {
+    "boostrap": "^2.0.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "jquery": "^3.6.3",
+    
+    
+    "mysql2": "^3.1.2",
+    "primus": "^8.0.7"
+    
+  }
+}
